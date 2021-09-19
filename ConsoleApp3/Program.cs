@@ -8,6 +8,8 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
            //first commit added
+           //second commit added
+           
         }
 
         public int[] TwoSum(int[] nums, int target)
